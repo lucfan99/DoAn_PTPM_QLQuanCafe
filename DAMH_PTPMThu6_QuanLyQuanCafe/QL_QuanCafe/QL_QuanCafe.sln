@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QL_QuanCafe", "QL_QuanCafe\QL_QuanCafe.csproj", "{EC2470E8-BF24-481F-ACDA-85317E4B2C2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL_BLL", "DAL_BLL\DAL_BLL.csproj", "{806F84A1-8655-475A-B725-590106CFDE5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC2470E8-BF24-481F-ACDA-85317E4B2C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2470E8-BF24-481F-ACDA-85317E4B2C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2470E8-BF24-481F-ACDA-85317E4B2C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2470E8-BF24-481F-ACDA-85317E4B2C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{806F84A1-8655-475A-B725-590106CFDE5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806F84A1-8655-475A-B725-590106CFDE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{806F84A1-8655-475A-B725-590106CFDE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{806F84A1-8655-475A-B725-590106CFDE5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
